@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         EditText edit = findViewById(R.id.EditText);
         TextView txt = findViewById(R.id.textView);
 
+        String test = "";
 
         final Button button = findViewById(R.id.button_id);
         button.setOnClickListener(new View.OnClickListener() {
