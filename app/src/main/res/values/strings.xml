@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FloorballApp</string>
+    <string name="joueur">Joueur</string>
 </resources>
